@@ -56,4 +56,4 @@ Generates side-by-side comparative visualizations and pixel histogram metrics to
 ---
 
 ## 👨‍💻 Author
-**Mahmoud Souliman** *Machine Learning Engineer & Biomedical Equipment Specialist* [LinkedIn Profile](YOUR_LINKEDIN_URL_HERE) | [GitHub Portfolio](YOUR_GITHUB_URL_HERE)
+**Mahmoud Souliman** *Machine Learning Engineer & Biomedical Equipment Specialist* [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-souliman-b676bb238/) | [GitHub Portfolio](https://github.com/MahmoudSouliman)
