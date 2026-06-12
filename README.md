@@ -29,7 +29,7 @@ This project introduces a **Zero-Button "Smart-Gain" Pipeline** that:
 * `README.md`: Project documentation and portfolio presentation.
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" alt="AI-Driven Ultrasound Smart-Gain Pipeline Architecture" width="95%">
+<img src="ultrasound_ai_pipeline.jpg" alt="AI-Driven Ultrasound Smart-Gain Pipeline Architecture" width="90%">
 </p>
 
 ## 📖 Step-by-Step Pipeline Description
