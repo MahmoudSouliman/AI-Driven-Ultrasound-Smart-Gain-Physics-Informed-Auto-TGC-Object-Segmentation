@@ -28,9 +28,7 @@ This project introduces a **Zero-Button "Smart-Gain" Pipeline** that:
 * `AI_Driven_Ultrasound_Smart_Gain.ipynb`: The complete, fully documented Google Colab notebook containing code blocks, text cells, and evaluations.
 * `README.md`: Project documentation and portfolio presentation.
 
-<p align="center">
-  <img src="ultrasound_ai_pipeline.jpg" alt="AI-Driven Ultrasound Smart-Gain Pipeline Architecture" width="90%">
-</p>
+<img src="ultrasound_ai_pipeline.jpg" alt="AI-Driven Ultrasound Smart-Gain Pipeline Architecture" width="90%">
 
 ## 📖 Step-by-Step Pipeline Description
 
